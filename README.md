@@ -2,9 +2,9 @@
 
 ## 1. Project Title
 
-**Course:** STAT3013.Q21.CTTT  
-**Group:** STAT3013.Q21_Group02  
-**Topic:** Analyzing the impact of pricing on consumer purchase decisions using Machine Learning and Deep Learning. This project implements four distinct models including ElasticNet, LightGBM, TabNet, and Wide & Deep to predict purchase Quantity. By comparing model metrics and analyzing Feature Importance, we identify the key factors influencing consumer behavior and the specific role of price in the decision-making process.
+- **Course:** STAT3013.Q21.CTTT  
+- **Group:** STAT3013.Q21_Group02  
+- **Topic:** Analyzing the impact of pricing on consumer purchase decisions using Machine Learning and Deep Learning. This project implements four distinct models including ElasticNet, LightGBM, TabNet, and Wide & Deep to predict purchase Quantity. By comparing model metrics and analyzing Feature Importance, we identify the key factors influencing consumer behavior and the specific role of price in the decision-making process.
 ---
 
 ## 2. Run Instructions
