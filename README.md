@@ -38,7 +38,7 @@ pip install -r requirements.txt
 - **Note on Data Scaling:** 
     - **Complex Merging:** The raw dataset consists of multiple relational tables (including `transaction_data`, `product`, `hh_demographic`, `campaign_table`, etc.). We performed extensive data joining and cleaning to consolidate these files into a unified dataset for analysis.
     - **Sampling for Performance:** Due to local hardware constraints and the large size of the merged results, the models were trained and evaluated on the **first 500,000 records** (via `df.head(500000)`). This approach ensures computational stability while still providing a robust sample size for deep learning models like TabNet and Wide & Deep.
-- **Demo Video:** [Click here to watch on YouTube/Drive](DÁN_LINK_VIDEO_VÀO_ĐÂY)
+- **Demo Video:** [Click here to watch on Drive](https://drive.google.com/file/d/1nmwQpuqJVE1h-3UmtTehaL7HA5BxJY1U/view?usp=drive_link)
 ---
 
 ## 5. License
