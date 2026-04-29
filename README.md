@@ -9,13 +9,13 @@
 
 ## 2. Run Instructions
 To run this project on your local machine, follow these steps:
-- 1. **Clone the repository:**
+1. **Clone the repository:**
    ```bash
-git clone https://github.com/minhannne/STAT3013.Q21_Group02
-cd STAT3013.Q21_Group02
-- 2. **Install required libraries:**
-pip install -r requirements.txt
-- 3. **Execution order:**
+- git clone https://github.com/minhannne/STAT3013.Q21_Group02
+- cd STAT3013.Q21_Group02
+2. **Install required libraries:**
+- pip install -r requirements.txt
+3. **Execution order:**
    - Ensure the dataset is downloaded and placed in the `data/` folder.
    - Run individual models in the `src/` folder (e.g., `python src/LightGBM.py`).
    - Run visualization scripts in `visualization/` to see comparative results.
